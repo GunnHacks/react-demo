@@ -1,8 +1,8 @@
 # react-demo
 
 This is the repository (modified from `create-next-app`) created in the GunnHacks 8.0 React Workshop.
-If you missed the workshop, had trouble setting up, or were left confused by my fast pace (sorry!), a recording of the 
-will be linked here shortly.
+If you missed the workshop, had trouble setting up, or were left confused by my fast pace (sorry!), a recording of the workshop 
+can be found [here](https://drive.google.com/file/d/1TdIuAYnQcbjrbJn1T2_IbfOwvBAIQ520/view?usp=sharing).
 
 If you want to follow along from a specific point in the recording, this repository's commits correspond with the following
 sections of the workshop:
@@ -17,3 +17,4 @@ sections of the workshop:
 
 `useRef` was mentioned very briefly at the end of the workshop which is referenced in the [final commit](https://github.com/GunnHacks/react-demo/commit/5b2a5c98bc0cf434f3012dfb350eefe7807c9b75).
 
+Hopefully this demo helped improve your knowledge of web development. Good luck and happy hacking!
